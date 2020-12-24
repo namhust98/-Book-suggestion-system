@@ -1,7 +1,8 @@
 # Book-suggestion-system
+
 -----------------------------
 
-# The files of the program:
+## The files of the program:
 - Folder "Data": Dataset of the program
 - config.py: Parameters of algorithm
 - metrics.py, lsh.py, load_data.py: Files support running the algorithm
@@ -9,11 +10,11 @@
 
 ----------------------------
 
-# Requirement:
+## Requirement:
 - Python 3.6 or later
 - Pandas library
 
 -----------------------------
 
-# Execute:
+## Execute:
 - Go to the directory, then run the command `$ python3 main.py`
